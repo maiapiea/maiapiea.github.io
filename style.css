@@ -6,3 +6,7 @@ html {
 body {
   background-color: lightgreen;
 }
+
+h1, p, ul {
+  font-size: 150%;
+}
