@@ -7,7 +7,7 @@ body {
   background-color: lightgreen;
 }
 
-p, ul {
+p, ul, a {
   font-size: 24px;
 }
 
