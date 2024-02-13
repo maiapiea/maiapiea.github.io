@@ -7,6 +7,10 @@ body {
   background-color: lightgreen;
 }
 
-h1, p, ul {
-  font-size: 200%;
+p, ul {
+  font-size: 24px;
+}
+
+h1 {
+  font-size: 48px;
 }
