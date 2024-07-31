@@ -1,0 +1,24 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-color: lightgreen;
+  font-size: 24px;
+}
+
+p, ul, a {
+  font-size: 24px;
+}
+
+h1 {
+  font-size: 48px;
+  line-height: 0.1;
+  padding-top: 10px;
+  padding-bottom: 0px;
+}
+
+.socials img {
+  width: 10%;
+}
