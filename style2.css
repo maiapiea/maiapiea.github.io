@@ -20,7 +20,17 @@ h1 {
 }
 
 .socials img {
-  width: 10%;
-  padding-right: 5px;
-  padding-left: 1px;
+  width: 5%;
+  padding-right: 3.5px;
+  padding-left: 0.5px;
+}
+
+.socials a {
+  text-decoration: none;
+}
+
+
+
+.silly {
+  font-size: 10px;
 }
